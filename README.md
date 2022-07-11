@@ -3,6 +3,14 @@ libferroxid - Art-Net
 
 Art-Net packages
 
+### Installation
+
+Available as a Crate on crates.io: [libferroxid-artnet](https://crates.io/crates/libferroxid-artnet)
+
+Add the following to your Cargo.toml file:
+`libferroxid-artnet = "X.Y.Z"`
+(see latest version on Crate page)
+
 ### Credits
 
 - Art-Net™ Designed by and Copyright Artistic Licence
