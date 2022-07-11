@@ -1,6 +1,6 @@
 [package]
 name = "libferroxid-artnet"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["András Németh <sunarch@protonmail.com>"]
 edition = "2021"
 description = "An implementation of the Art-Net protocol"
