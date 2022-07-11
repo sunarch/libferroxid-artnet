@@ -9,8 +9,15 @@ readme = "README.md"
 homepage = "https://github.com/sunarch/libferroxid-artnet"
 repository = "https://github.com/sunarch/libferroxid-artnet"
 license = "MPL-2.0"
-keywords = ["libferroxid", "art-net", "artnet"]
-categories = ["command-line-utilities", "network-programming"]
+keywords = [
+    "libferroxid",
+    "art-net",
+    "artnet",
+]
+categories = [
+    "command-line-utilities",
+    "network-programming",
+]
 exclude = [".idea/"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
