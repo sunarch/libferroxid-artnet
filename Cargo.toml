@@ -6,8 +6,8 @@ edition = "2021"
 description = "An implementation of the Art-Net protocol"
 documentation = "https://docs.rs/libferroxid-artnet"
 readme = "README.md"
-homepage = "https://github.com/sunarch/libferroxid-artnet"
-repository = "https://github.com/sunarch/libferroxid-artnet"
+homepage = "https://codeberg.org/sunarch/libferroxid-artnet"
+repository = "https://codeberg.org/sunarch/libferroxid-artnet"
 license = "MPL-2.0"
 keywords = [
     "libferroxid",
