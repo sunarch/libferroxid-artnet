@@ -12,4 +12,4 @@ pub const PORT_ADDRESS_MAX : u16 = 32767;
 pub const DEFAULT_BROADCAST_IP_2 : &str = "2.255.255.255";
 pub const DEFAULT_BROADCAST_IP_10 : &str = "10.255.255.255";
 
-pub const DEFAULT_IP_PORT : u16 = 0x1936;
+pub const DEFAULT_IP_PORT : u16 = 0x1936;  // 6454
